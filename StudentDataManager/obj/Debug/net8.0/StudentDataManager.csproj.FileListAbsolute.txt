@@ -1,0 +1,15 @@
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment4-11308636\StudentDataManager\bin\Debug\net8.0\StudentDataManager.exe
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment4-11308636\StudentDataManager\bin\Debug\net8.0\StudentDataManager.deps.json
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment4-11308636\StudentDataManager\bin\Debug\net8.0\StudentDataManager.runtimeconfig.json
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment4-11308636\StudentDataManager\bin\Debug\net8.0\StudentDataManager.dll
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment4-11308636\StudentDataManager\bin\Debug\net8.0\StudentDataManager.pdb
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment4-11308636\StudentDataManager\obj\Debug\net8.0\StudentDataManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment4-11308636\StudentDataManager\obj\Debug\net8.0\StudentDataManager.AssemblyInfoInputs.cache
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment4-11308636\StudentDataManager\obj\Debug\net8.0\StudentDataManager.AssemblyInfo.cs
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment4-11308636\StudentDataManager\obj\Debug\net8.0\StudentDataManager.csproj.CoreCompileInputs.cache
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment4-11308636\StudentDataManager\obj\Debug\net8.0\StudentDataManager.sourcelink.json
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment4-11308636\StudentDataManager\obj\Debug\net8.0\StudentDataManager.dll
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment4-11308636\StudentDataManager\obj\Debug\net8.0\refint\StudentDataManager.dll
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment4-11308636\StudentDataManager\obj\Debug\net8.0\StudentDataManager.pdb
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment4-11308636\StudentDataManager\obj\Debug\net8.0\StudentDataManager.genruntimeconfig.cache
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment4-11308636\StudentDataManager\obj\Debug\net8.0\ref\StudentDataManager.dll
